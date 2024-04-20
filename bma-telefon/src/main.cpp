@@ -25,14 +25,10 @@ void setup()
 void loop() 
 {
     if (!lever_input->readAnalog())
-    {
         wheel->update();
-    }
 
     if (player->isPlaying() && lever_input->readAnalog())
-    {
         player->stop();
-    }
 
     delay(10);
 }

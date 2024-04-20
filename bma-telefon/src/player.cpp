@@ -40,6 +40,9 @@ void Player::play(const int track)
     case 9:
         _keyboard->pressKey(KEY_9);
         break;
+    case 10:
+        _keyboard->pressKey(KEY_0);
+        break;
 
     default:
         break;
@@ -50,7 +53,7 @@ void Player::play(const int track)
 
 void Player::stop()
 {
-    _keyboard->pressKey(KEY_0);
+    _keyboard->pressKey(KEY_A);
     _isPlaying = false;
 }
 
