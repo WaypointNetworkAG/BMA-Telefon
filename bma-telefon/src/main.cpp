@@ -1,3 +1,7 @@
+/* Author: Noa Sendlhofer - noa.sendlhofer@wpn.ch
+ * Desc: Main 
+ */
+
 #include <Controllino.h>
 #include <Arduino.h>
 #include "input.h"
@@ -24,10 +28,10 @@ void setup()
 
 void loop() 
 {
-    if (!lever_input->readAnalog())
+    if (lever_input->readAnalog())
         wheel->update();
 
-    if (player->isPlaying() && lever_input->readAnalog())
+    if (player->isPlaying() && !lever_input->readAnalog())
         player->stop();
 
     delay(10);

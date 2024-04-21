@@ -498,7 +498,7 @@
         }
       },
       "wssDeviceSpec": {},
-      "lastModifiedTime": "2024-04-20T15:30:07.410Z"
+      "lastModifiedTime": "2024-04-21T14:15:42.972Z"
     },
     "zones": {
       "zonesById": {
@@ -609,151 +609,151 @@
         },
         "a33e322c-da54-4000-a539-d36f857f8000": {
           "id": "a33e322c-da54-4000-a539-d36f857f8000",
-          "name": "Tunnel Interface_1.wav",
+          "name": "01",
           "tag": "6",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_1.wav",
+            "name": "01",
             "type": "Audio",
-            "assetId": "6821cd9c-4cff-4000-a137-c8b85fc1b000",
+            "assetId": "bacb4b5f-1937-4000-a809-d070fda66000",
             "volume": 100
           }
         },
         "ea722766-c81d-4000-ab06-f90086f68000": {
           "id": "ea722766-c81d-4000-ab06-f90086f68000",
-          "name": "Tunnel Interface_2.wav",
+          "name": "02",
           "tag": "7",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_2.wav",
+            "name": "02",
             "type": "Audio",
-            "assetId": "dc7b9eda-1e30-4000-aa98-a01bcb089000",
+            "assetId": "772930eb-d755-4000-a211-dd1a62b41000",
             "volume": 100
           }
         },
         "ed1ef977-fbd9-4000-a472-f807e9252000": {
           "id": "ed1ef977-fbd9-4000-a472-f807e9252000",
-          "name": "Tunnel Interface_3.wav",
+          "name": "03",
           "tag": "8",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_3.wav",
+            "name": "03",
             "type": "Audio",
-            "assetId": "38459362-53ad-4000-a456-6f30c2548000",
+            "assetId": "b0a0630b-3128-4000-a8be-c4d0691bd000",
             "volume": 100
           }
         },
         "0c4de9e0-bcd7-4000-afd5-e98f9c16a000": {
           "id": "0c4de9e0-bcd7-4000-afd5-e98f9c16a000",
-          "name": "Tunnel Interface_4.wav",
+          "name": "04",
           "tag": "9",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_4.wav",
+            "name": "04",
             "type": "Audio",
-            "assetId": "3c5ab47f-856b-4000-aab0-22127ecc5000",
+            "assetId": "1bfa2f32-3e37-4000-a6cb-402b1f84d000",
             "volume": 100
           }
         },
         "95a6c726-98a4-4000-a7ed-b8d1f6149000": {
           "id": "95a6c726-98a4-4000-a7ed-b8d1f6149000",
-          "name": "Tunnel Interface_5.wav",
+          "name": "05",
           "tag": "10",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_5.wav",
+            "name": "05",
             "type": "Audio",
-            "assetId": "f4cc014d-0eaf-4000-ae80-b1bb42231000",
+            "assetId": "de919c07-413b-4000-ac6d-31c86fc3f000",
             "volume": 100
           }
         },
         "905fd714-26d5-4000-acea-61446a714000": {
           "id": "905fd714-26d5-4000-acea-61446a714000",
-          "name": "Tunnel Interface_6.wav",
+          "name": "06",
           "tag": "11",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_6.wav",
+            "name": "06",
             "type": "Audio",
-            "assetId": "de78c125-9aa2-4000-a4d1-174c876ca000",
+            "assetId": "90e60564-3573-4000-aa22-690d52d78000",
             "volume": 100
           }
         },
         "ba416b81-d101-4000-afd4-c2e289629000": {
           "id": "ba416b81-d101-4000-afd4-c2e289629000",
-          "name": "Tunnel Interface_7.wav",
+          "name": "07",
           "tag": "12",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_7.wav",
+            "name": "07",
             "type": "Audio",
-            "assetId": "853786a1-448a-4000-a754-715b6e809000",
+            "assetId": "5f71424b-6a26-4000-ab4e-df1c3b5dc000",
             "volume": 100
           }
         },
         "51ff2b27-397b-4000-a0b0-c68c372f6000": {
           "id": "51ff2b27-397b-4000-a0b0-c68c372f6000",
-          "name": "Tunnel Interface_8.wav",
+          "name": "08",
           "tag": "13",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_8.wav",
+            "name": "08",
             "type": "Audio",
-            "assetId": "d92699b0-d2e9-4000-aaa3-1b866a008000",
+            "assetId": "331e18ae-436f-4000-a42c-bc38f8ff5000",
             "volume": 100
           }
         },
         "71c4e5c4-825c-4000-ae57-ea6a60130000": {
           "id": "71c4e5c4-825c-4000-ae57-ea6a60130000",
-          "name": "Tunnel Interface_9.wav",
+          "name": "09",
           "tag": "14",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_9.wav",
+            "name": "09",
             "type": "Audio",
-            "assetId": "a40db3b7-3d07-4000-acea-46ad6094e000",
+            "assetId": "1fb7aa71-0a3a-4000-a57e-e4fdcbeef000",
             "volume": 100
           }
         },
         "125f622a-0adc-4000-a3fe-d55ee9ae0000": {
           "id": "125f622a-0adc-4000-a3fe-d55ee9ae0000",
-          "name": "Tunnel Interface_10.wav",
+          "name": "00",
           "tag": "15",
           "container": {
             "id": "1d0473d0-b6a5-4000-a143-d025a61f0000",
             "type": 0
           },
           "contentItem": {
-            "name": "Tunnel Interface_10.wav",
+            "name": "00",
             "type": "Audio",
-            "assetId": "1d6eae79-9e13-4000-a621-3d7162a23000",
+            "assetId": "7928f027-c317-4000-a6a7-4b95e2b2f000",
             "volume": 100
           }
         }
@@ -3250,155 +3250,155 @@
       "6c67885b-31d7-4000-a1b9-9b98a8a08000": {
         "id": "6c67885b-31d7-4000-a1b9-9b98a8a08000",
         "name": "Silence.wav",
-        "path": "/Users/noasendlhofer/Desktop/",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Desktop/Silence.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/Silence.wav",
         "mediaType": "Audio",
         "fileSize": 22096,
         "lastModifiedDate": "2024-04-20T14:34:50.234Z",
         "refCount": 1
       },
-      "6821cd9c-4cff-4000-a137-c8b85fc1b000": {
-        "id": "6821cd9c-4cff-4000-a137-c8b85fc1b000",
-        "name": "Tunnel Interface_1.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "bacb4b5f-1937-4000-a809-d070fda66000": {
+        "id": "bacb4b5f-1937-4000-a809-d070fda66000",
+        "name": "01.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_1.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/01.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:23:19.581Z",
+        "fileSize": 4918461,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "dc7b9eda-1e30-4000-aa98-a01bcb089000": {
-        "id": "dc7b9eda-1e30-4000-aa98-a01bcb089000",
-        "name": "Tunnel Interface_2.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "772930eb-d755-4000-a211-dd1a62b41000": {
+        "id": "772930eb-d755-4000-a211-dd1a62b41000",
+        "name": "02.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_2.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/02.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:23:32.064Z",
+        "fileSize": 3942108,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "38459362-53ad-4000-a456-6f30c2548000": {
-        "id": "38459362-53ad-4000-a456-6f30c2548000",
-        "name": "Tunnel Interface_3.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "b0a0630b-3128-4000-a8be-c4d0691bd000": {
+        "id": "b0a0630b-3128-4000-a8be-c4d0691bd000",
+        "name": "03.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_3.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/03.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:23:50.644Z",
+        "fileSize": 3061886,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "3c5ab47f-856b-4000-aab0-22127ecc5000": {
-        "id": "3c5ab47f-856b-4000-aab0-22127ecc5000",
-        "name": "Tunnel Interface_4.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "1bfa2f32-3e37-4000-a6cb-402b1f84d000": {
+        "id": "1bfa2f32-3e37-4000-a6cb-402b1f84d000",
+        "name": "04.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_4.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/04.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:00.340Z",
+        "fileSize": 4454526,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "f4cc014d-0eaf-4000-ae80-b1bb42231000": {
-        "id": "f4cc014d-0eaf-4000-ae80-b1bb42231000",
-        "name": "Tunnel Interface_5.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "de919c07-413b-4000-ac6d-31c86fc3f000": {
+        "id": "de919c07-413b-4000-ac6d-31c86fc3f000",
+        "name": "05.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_5.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/05.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:08.666Z",
+        "fileSize": 3702199,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "de78c125-9aa2-4000-a4d1-174c876ca000": {
-        "id": "de78c125-9aa2-4000-a4d1-174c876ca000",
-        "name": "Tunnel Interface_6.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "90e60564-3573-4000-aa22-690d52d78000": {
+        "id": "90e60564-3573-4000-aa22-690d52d78000",
+        "name": "06.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_6.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/06.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:16.965Z",
+        "fileSize": 3046003,
+        "lastModifiedDate": "2012-05-31T14:13:44.000Z",
         "refCount": 1
       },
-      "853786a1-448a-4000-a754-715b6e809000": {
-        "id": "853786a1-448a-4000-a754-715b6e809000",
-        "name": "Tunnel Interface_7.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "5f71424b-6a26-4000-ab4e-df1c3b5dc000": {
+        "id": "5f71424b-6a26-4000-ab4e-df1c3b5dc000",
+        "name": "07.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_7.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/07.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:26.070Z",
+        "fileSize": 4294030,
+        "lastModifiedDate": "2012-05-31T14:13:46.000Z",
         "refCount": 1
       },
-      "d92699b0-d2e9-4000-aaa3-1b866a008000": {
-        "id": "d92699b0-d2e9-4000-aaa3-1b866a008000",
-        "name": "Tunnel Interface_8.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "331e18ae-436f-4000-a42c-bc38f8ff5000": {
+        "id": "331e18ae-436f-4000-a42c-bc38f8ff5000",
+        "name": "08.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_8.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/08.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:35.182Z",
+        "fileSize": 3670435,
+        "lastModifiedDate": "2012-05-31T14:13:46.000Z",
         "refCount": 1
       },
-      "a40db3b7-3d07-4000-acea-46ad6094e000": {
-        "id": "a40db3b7-3d07-4000-acea-46ad6094e000",
-        "name": "Tunnel Interface_9.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "1fb7aa71-0a3a-4000-a57e-e4fdcbeef000": {
+        "id": "1fb7aa71-0a3a-4000-a57e-e4fdcbeef000",
+        "name": "09.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_9.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/09.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:44.690Z",
+        "fileSize": 3189781,
+        "lastModifiedDate": "2012-05-31T14:13:46.000Z",
         "refCount": 1
       },
-      "1d6eae79-9e13-4000-a621-3d7162a23000": {
-        "id": "1d6eae79-9e13-4000-a621-3d7162a23000",
-        "name": "Tunnel Interface_10.wav",
-        "path": "/Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/",
+      "7928f027-c317-4000-a6a7-4b95e2b2f000": {
+        "id": "7928f027-c317-4000-a6a7-4b95e2b2f000",
+        "name": "00.mp3",
+        "path": "/Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/",
         "networkId": 0,
         "location": "Local",
         "assetType": "Content",
-        "scope": "5d5ece0e2b3fc9b5",
-        "locator": "file:///Users/noasendlhofer/Documents/GitHub/bma-tunnel/BMA Tunnel Mix/Tunnel Interface_10.wav",
+        "scope": "b2033b4a5ac8c2a9",
+        "locator": "file:///Users/noasendlhofer/Documents/GitHub/BMA-Telefon/BrightSign/Content/00.mp3",
         "mediaType": "Audio",
-        "fileSize": 4675952,
-        "lastModifiedDate": "2022-02-22T08:24:53.997Z",
+        "fileSize": 4110963,
+        "lastModifiedDate": "2012-05-31T17:07:12.000Z",
         "refCount": 1
       }
     },
@@ -3413,10 +3413,10 @@
     },
     "selectionEntities": {},
     "prevSelectionEntities": {
-      "a8cc4605-2127-4000-a0a5-b4a01507d000": {
-        "id": "a8cc4605-2127-4000-a0a5-b4a01507d000",
-        "type": "Event",
-        "selectableType": "TRANSITION",
+      "125f622a-0adc-4000-a3fe-d55ee9ae0000": {
+        "id": "125f622a-0adc-4000-a3fe-d55ee9ae0000",
+        "type": "Audio",
+        "selectableType": "STATE",
         "selectableData": null
       }
     },
@@ -4209,8 +4209,8 @@
     },
     "viewTransformByZoneId": {
       "1d0473d0-b6a5-4000-a143-d025a61f0000": {
-        "x": 1029.5814315070984,
-        "y": 277.80822086668104,
+        "x": 1046.5814315070984,
+        "y": 275.80822086668104,
         "k": 0.3453322237425298
       }
     },
